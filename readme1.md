@@ -10,3 +10,5 @@ Jak postupovat:
 git clone "http://github.com/
 git cd "testor2"
 /testor/ code .
+
+vbc
