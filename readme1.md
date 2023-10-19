@@ -1,8 +1,8 @@
 Github příkazy:
-git push
-git clone -zkopíruje něco
+git push - pošle na server
+git clone -vytvoří kopii gitového repozitáře
 git  cd -otevře adřesář
-git add 
+git add -přidání souboru do githubu
 git commit
 code . -otevře ve vscode
 
